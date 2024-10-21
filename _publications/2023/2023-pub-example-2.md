@@ -1,7 +1,7 @@
 ---
 title:          HyperFed: hyperbolic prototypes exploration with consistent aggregation for non-IID data in federated learning
 date:           2023-04-14 00:01:00 +0800
-selected:       false
+selected:       true
 pub:            "Proceedings of the Thirty-Second International Joint Conference on Artificial Intelligence (IJCAI)"
 pub_last:       ' <span class="badge badge-pill badge-custom badge-secondary">CCF A Conference</span><span class="badge badge-pill badge-custom badge-warning">Oral</span>'
 pub_date:       "2023"
