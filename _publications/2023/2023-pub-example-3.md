@@ -1,5 +1,5 @@
 ---
-title:          FedRANE$:$ Joint Local Relational Augmentation and Global Nash Equilibrium for Federated Learning with Non-IID Data
+title:          FedRANE:Joint Local Relational Augmentation and Global Nash Equilibrium for Federated Learning with Non-IID Data
 date:           2023-10-27 00:01:00 +0800
 selected:       true
 pub:            "Proceedings of the 31st ACM International Conference on Multimedia (MM)"
