@@ -1,11 +1,11 @@
-primary_name: "Rongsheng Wang"
-secondary_name: ""
-navbar_name: "Rongsheng Wang's Home Page"
+primary_name: "Xinting Liao (廖馨婷)"
+secondary_name: "Xenia Liao"
+navbar_name: "Xinting Liao's Home Page"
 
 positions:
-  - '<span class="no-break"><img src="assets/images/badges/mpu_master.png" alt="Macao Polytechnic University" class="inline-badge"/></span> M.S., Macao Polytechnic University (2024)'
+  - '<span class="no-break"><img src="assets/images/badges/zju_logo.png" alt="Zhejiang University" class="inline-badge"/></span> Ph.D, Zhejiang University (2025)'
 
-email: "wrs6@88.com"
+email: "xintingliao@zju.edu.cn"
 gscholar: FoMerO8AAAAJ
 sscholar: Xinting-Liao/2215523472
 github: XeniaLLL
@@ -40,11 +40,11 @@ education:
   
 experience:
 - name: Text Intelligence Lab in Westlake University
-#  logo: assets/images/badges/qiyuan.png
+  logo: assets/images/badges/westlake_logo.png
   position: Visiting student
   date: Oct. 2019 - May. 2020
 - name: Medical Image Lab in Sichuan University
-#  logo: assets/images/badges/hkust-gz.png
+  logo: assets/images/badges/scu_logo.png
   position: Research intern
   date: Mar. 2018 -	Jun. 2019
 
