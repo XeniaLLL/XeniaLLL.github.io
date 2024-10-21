@@ -1,5 +1,5 @@
 ---
-title:          PPGenCDR: A Stable and Robust Framework for Privacy-Preserving Cross-Domain Recommendation
+title:          PPGenCDR$:$ A Stable and Robust Framework for Privacy-Preserving Cross-Domain Recommendation
 date:           2023-06-26 00:01:00 +0800
 selected:       true
 pub:            "Proceedings of the AAAI Conference on Artificial Intelligence (AAAI)"

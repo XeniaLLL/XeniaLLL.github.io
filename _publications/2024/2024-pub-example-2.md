@@ -1,8 +1,8 @@
 ---
-title:          FOOGD: Federated Collaboration for Both Out-of-distribution Generalization and Detection
+title:          FOOGD$:$ Federated Collaboration for Both Out-of-distribution Generalization and Detection
 date:           2024-12-09 00:01:00 +0800
 selected:       true
-pub:            "FOOGD: Federated Collaboration for Both Out-of-distribution Generalization and Detection"
+pub:            "Advances in Neural Information Processing Systems"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
 pub_last:       ' <span class="badge badge-pill badge-custom badge-secondary">Conference</span><span class="badge badge-pill badge-custom badge-success">Poster</span>'
