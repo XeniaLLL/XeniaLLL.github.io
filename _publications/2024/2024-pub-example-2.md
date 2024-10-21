@@ -5,7 +5,7 @@ selected:       true
 pub:            "Advances in Neural Information Processing Systems"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
-pub_last:       ' <span class="badge badge-pill badge-custom badge-secondary">Conference</span><span class="badge badge-pill badge-custom badge-success">Poster</span>'
+pub_last:       ' <span class="badge badge-pill badge-custom badge-secondary">Conference</span><span class="badge badge-pill badge-custom badge-warning">Poster</span>'
 pub_date:       "2024"
 
 abstract: >-
