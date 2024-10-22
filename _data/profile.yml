@@ -32,7 +32,7 @@ portrait_caption: >-
 education:
 - name: Zhejiang University
   logo: assets/images/badges/zju_logo.png
-  position: Ph.D. in Artificial Intelligence
+  position: Ph.D. in Computer Science
   date: Sep. 2020 - Jul. 2025
 - name: Sichuan University
   logo: assets/images/badges/scu_logo.png
@@ -50,21 +50,21 @@ experience:
   date: Mar. 2018 -	Jun. 2019
 
 
-#awards:
-#- name: Outstanding Award of JingDong Health - Global AI Innovation Competition
-#  date: 2024
-#- name: First Prize of Baidu PaddlePaddle AGI Hackathon
-#  date: 2024
-#- name: Third Prize of Digital Medical Technology and Application Innovation Competition
-#  date: 2023
-#- name: Third Prize of Baichuan Intelligence and Amazon Cloud AGI Hackathon
-#  date: 2023
-#- name: Silver of Kaggle RSNA Screening Mammography Breast Cancer Detection
-#  date: 2023
-#- name: Outstanding Award of IEEE UV 2022 "Vision Meets Algae" Object Detection Challenge
-#  date: 2022
-#- name: <a href="https://www.paddlepaddle.org.cn/ppdemd?n=/ppdemd/%E7%8E%8B%E8%8D%A3%E8%83%9C">Baidu PaddlePaddle Developers Experts</a>
-#  date: 2021
+awards:
+- name: Outstanding Award of JingDong Health - Global AI Innovation Competition
+  date: 2024
+- name: First Prize of Baidu PaddlePaddle AGI Hackathon
+  date: 2024
+- name: Third Prize of Digital Medical Technology and Application Innovation Competition
+  date: 2023
+- name: Third Prize of Baichuan Intelligence and Amazon Cloud AGI Hackathon
+  date: 2023
+- name: Silver of Kaggle RSNA Screening Mammography Breast Cancer Detection
+  date: 2023
+- name: Outstanding Award of IEEE UV 2022 "Vision Meets Algae" Object Detection Challenge
+  date: 2022
+- name: <a href="https://www.paddlepaddle.org.cn/ppdemd?n=/ppdemd/%E7%8E%8B%E8%8D%A3%E8%83%9C">Baidu PaddlePaddle Developers Experts</a>
+  date: 2021
 
 service:
 - name: Reviewer of ACM MM, ACL, EMNLP, NeurIPS, ICLR, AISTATS
