@@ -92,7 +92,7 @@
                             <h6>News</h6>
                             <ul class="list small pl-3 mb-1">
                                 {% for item in site.data.profile.news %}
-                                <li>{{ item.name }} <em class="float-right">{{ item.date }}</em></li>
+                                <li>{{ item.date }} <em class="float-left">{{ item.name }}</em></li>
                                 {% endfor %}
                             </ul>
                         </div>
