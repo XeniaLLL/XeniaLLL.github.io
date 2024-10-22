@@ -145,7 +145,7 @@
                                 <div class="row">
                                     {% for item in site.data.profile.news %}
                                     <div class="col-md-6"> <!-- 每行两个元素 -->
-                                        <li class="d-flex"> <!-- 使用flex布局让date和name在一行 -->
+                                        <li> <!-- 使用flex布局让date和name在一行 -->
                                             <span class="mr-2">{{ item.date }}</span> <!-- 控制date与name之间的距离 -->
                                             <em>{{ item.name }}</em>
                                         </li>
