@@ -72,6 +72,22 @@ service:
 news:
   - name: One paper got accepted by NeurIPS2024.
     date: Sept. 2024
+  - name: One paper got accepted by NeurIPS2024.
+    date: Sept. 2024
+  - name: One paper got accepted by NeurIPS2024.
+    date: Sept. 2024
+  - name: One paper got accepted by NeurIPS2024.
+    date: Sept. 2024
+  - name: One paper got accepted by NeurIPS2024.
+    date: Sept. 2024
+  - name: One paper got accepted by NeurIPS2024.
+    date: Sept. 2024
+  - name: One paper got accepted by NeurIPS2024.
+    date: Sept. 2024
+  - name: One paper got accepted by NeurIPS2024.
+    date: Sept. 2024
+  - name: One paper got accepted by NeurIPS2024.
+    date: Sept. 2024
 
 
 # Feel free to replace the footer text if you would like to, but I will greatly appreciate it 
