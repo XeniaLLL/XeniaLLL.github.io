@@ -30,46 +30,51 @@ portrait_caption: >-
   我是浙江大学的廖馨婷，欢迎访问我的主页~
 
 education:
-- name: Zhejiang University
-  logo: assets/images/badges/zju_logo.png
-  position: Ph.D. in Computer Science
-  date: Sep. 2020 - Jul. 2025
-- name: Sichuan University
-  logo: assets/images/badges/scu_logo.png
-  position: B.S. in Software Engineering
-  date: Sep. 2016 - Jul. 2020
-  
+  - name: Zhejiang University
+    logo: assets/images/badges/zju_logo.png
+    position: Ph.D. in Computer Science
+    date: Sep. 2020 - Jul. 2025
+  - name: Sichuan University
+    logo: assets/images/badges/scu_logo.png
+    position: B.S. in Software Engineering
+    date: Sep. 2016 - Jul. 2020
+
 experience:
-- name: Text Intelligence Lab in Westlake University
-  logo: assets/images/badges/westlake_logo.png
-  position: Visiting student
-  date: Oct. 2019 - May. 2020
-- name: Medical Image Lab in Sichuan University
-  logo: assets/images/badges/scu_logo.png
-  position: Research intern
-  date: Mar. 2018 -	Jun. 2019
+  - name: Text Intelligence Lab in Westlake University
+    logo: assets/images/badges/westlake_logo.png
+    position: Visiting student
+    date: Oct. 2019 - May. 2020
+  - name: Medical Image Lab in Sichuan University
+    logo: assets/images/badges/scu_logo.png
+    position: Research intern
+    date: Mar. 2018 -	Jun. 2019
 
 
-awards:
-- name: Outstanding Award of JingDong Health - Global AI Innovation Competition
-  date: 2024
-- name: First Prize of Baidu PaddlePaddle AGI Hackathon
-  date: 2024
-- name: Third Prize of Digital Medical Technology and Application Innovation Competition
-  date: 2023
-- name: Third Prize of Baichuan Intelligence and Amazon Cloud AGI Hackathon
-  date: 2023
-- name: Silver of Kaggle RSNA Screening Mammography Breast Cancer Detection
-  date: 2023
-- name: Outstanding Award of IEEE UV 2022 "Vision Meets Algae" Object Detection Challenge
-  date: 2022
-- name: <a href="https://www.paddlepaddle.org.cn/ppdemd?n=/ppdemd/%E7%8E%8B%E8%8D%A3%E8%83%9C">Baidu PaddlePaddle Developers Experts</a>
-  date: 2021
+#awards:
+#- name: Outstanding Award of JingDong Health - Global AI Innovation Competition
+#  date: 2024
+#- name: First Prize of Baidu PaddlePaddle AGI Hackathon
+#  date: 2024
+#- name: Third Prize of Digital Medical Technology and Application Innovation Competition
+#  date: 2023
+#- name: Third Prize of Baichuan Intelligence and Amazon Cloud AGI Hackathon
+#  date: 2023
+#- name: Silver of Kaggle RSNA Screening Mammography Breast Cancer Detection
+#  date: 2023
+#- name: Outstanding Award of IEEE UV 2022 "Vision Meets Algae" Object Detection Challenge
+#  date: 2022
+#- name: <a href="https://www.paddlepaddle.org.cn/ppdemd?n=/ppdemd/%E7%8E%8B%E8%8D%A3%E8%83%9C">Baidu PaddlePaddle Developers Experts</a>
+#  date: 2021
 
 service:
-- name: Reviewer of ACM MM, ACL, EMNLP, NeurIPS, ICLR, AISTATS
+  - name: Reviewer of ACM MM, ACL, EMNLP, NeurIPS, ICLR, AISTATS
+
+news:
+  - name: One paper got accepted by NeurIPS2024.
+    date: Sept. 2024
+
 
 # Feel free to replace the footer text if you would like to, but I will greatly appreciate it 
 # if you keep the link to the template so that more people can benefit from it. Thanks!
 footer_text: >-
-  Copyright © 2024 <a href="https://github.com/XeniaLLL" target="_blank">Xinting Liao</a>. All Rights Reserved.
+  The past cannot be undone, but the future is still within reach.
