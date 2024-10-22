@@ -103,6 +103,35 @@
 <!--        </div>-->
 <!--    </div>-->
 <!--</div>-->
+<!--<div class="row mt-3">-->
+<!--    <div class="col">-->
+<!--        <div class="card border-0 shadow-sm bg-white">-->
+<!--            <div class="card-body p-4">-->
+<!--                <div class="row">-->
+<!--                    {% if site.data.profile.news %}-->
+<!--                    <div class="col-md-12">-->
+<!--                        <div class="mx-2 my-1">-->
+<!--                            <h6>News</h6>-->
+<!--                            <ul class="list small pl-3 mb-1">-->
+<!--                                <div class="row">-->
+<!--                                    {% for item in site.data.profile.news %}-->
+<!--                                    <div class="col-md-6"> &lt;!&ndash; 每行两个元素 &ndash;&gt;-->
+<!--                                        <li>-->
+<!--                                            <em class="float-left">{{ item.date }} {{ item.name }}</em>-->
+<!--                                        </li>-->
+<!--                                    </div>-->
+<!--                                    {% endfor %}-->
+<!--                                </div>-->
+<!--                            </ul>-->
+<!--                        </div>-->
+<!--                    </div>-->
+<!--                    {% endif %}-->
+<!--                </div>-->
+<!--            </div>-->
+<!--        </div>-->
+<!--    </div>-->
+<!--</div>-->
+
 <div class="row mt-3">
     <div class="col">
         <div class="card border-0 shadow-sm bg-white">
@@ -116,8 +145,9 @@
                                 <div class="row">
                                     {% for item in site.data.profile.news %}
                                     <div class="col-md-6"> <!-- 每行两个元素 -->
-                                        <li>
-                                            {{ item.date }} <em class="float-left">{{ item.name }}</em>
+                                        <li class="d-flex"> <!-- 使用flex布局让date和name在一行 -->
+                                            <span class="mr-2">{{ item.date }}</span> <!-- 控制date与name之间的距离 -->
+                                            <em>{{ item.name }}</em>
                                         </li>
                                     </div>
                                     {% endfor %}
