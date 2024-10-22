@@ -117,8 +117,7 @@
                                     {% for item in site.data.profile.news %}
                                     <div class="col-md-6"> <!-- 每行两个元素 -->
                                         <li>
-                                            <div>{{ item.date }}</div>
-                                            <div><em>{{ item.name }}</em></div>
+                                            {{ item.date }} <em class="float-left">{{ item.name }}</em>
                                         </li>
                                     </div>
                                     {% endfor %}
