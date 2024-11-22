@@ -40,6 +40,10 @@ education:
     date: Sep. 2016 - Jul. 2020
 
 experience:
+  - name: Next++ Lab in National University of Singapore
+    logo: assets/images/badges/nus_logo.png
+    position: Visiting student
+    date: Jun. 2024 - Present
   - name: Text Intelligence Lab in Westlake University
     logo: assets/images/badges/westlake_logo.png
     position: Visiting student
