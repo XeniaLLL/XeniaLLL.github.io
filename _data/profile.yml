@@ -76,7 +76,7 @@ service:
 
 news:
   - name: Two papers about federated prompt learning and  machine unlearning got accepted by ICML2025. Thanks for the support of my co-authors, and congrats.
-    date: Apr. 2025
+    date: May. 2025
   - name: One paper about federated graph learning generalization got accepted by SIGIR2025. Congratulations on my co-authors.
     date: Apr. 2025
   - name: One paper about multi-modal cross-domain recommendation got accepted by WWW2025. Congratulations on my co-authors.
