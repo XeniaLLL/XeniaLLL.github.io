@@ -1,5 +1,5 @@
 ---
-title:          FOCoOp: Enhancing Out-of-Distribution Robustness in Federated Prompt Learning for Vision-Language Models
+title:          FOCoOp:Enhancing Out-of-Distribution Robustness in Federated Prompt Learning for Vision-Language Models
 date:           2025-07-12 00:01:00 +0800
 selected:       true
 pub:            "Forty-Second International Conference on Machine Learning"
