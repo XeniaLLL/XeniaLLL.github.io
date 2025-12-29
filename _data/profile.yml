@@ -63,10 +63,10 @@ experience:
     logo: assets/images/badges/westlake_logo.png
     position: Visiting student
     date: Oct. 2019 - May. 2020
-  - name: Medical Image Lab at Sichuan University
-    logo: assets/images/badges/scu_logo.png
-    position: Research intern
-    date: Mar. 2018 -	Jun. 2019
+#  - name: Medical Image Lab at Sichuan University
+#    logo: assets/images/badges/scu_logo.png
+#    position: Research intern
+#    date: Mar. 2018 -	Jun. 2019
 
 
 #awards:
