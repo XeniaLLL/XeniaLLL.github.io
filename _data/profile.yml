@@ -3,7 +3,7 @@ secondary_name: "Xenia Liao"
 navbar_name: "Xinting Liao's Home Page"
 
 positions:
-  - '<span class="no-break"><img src="assets/images/badges/zju_logo.png" alt="Zhejiang University" class="inline-badge"/></span> Ph.D, Zhejiang University (2025)'
+  - '<span class="no-break"><img src="assets/images/badges/zju_logo.png" alt="Zhejiang University" class="inline-badge"/></span> Ph.D, Zhejiang University'
 
 email: "xintingliao@zju.edu.cn"
 gscholar: FoMerO8AAAAJ
@@ -19,7 +19,7 @@ resume: assets/cv/CV_xinting_liao.pdf
 orcid: 0000-0002-8257-2381
 
 short_bio: >-
-  Xinting (Xenia) Liao is a Vector Distinguished Postdoctoral Fellow at the Vector Institute for Artificial Intelligence and a Postdoctoral Researcher in Electrical and Computer Engineering at the University of British Columbia. At Vector, she is advised by Dr. <a href="https://scholar.google.com/citations?user=sdENOQ4AAAAJ">Xiaoxiao Li</a> and Dr. <a href="https://scholar.google.com/citations?user=o1XZyLMAAAAJ">Deval Pandya</a>, where her research centers on federated learning on foundation models and out-of-distribution robustness.
+  Xinting (Xenia) Liao is a Vector Distinguished Postdoctoral Fellow at the Vector Institute for Artificial Intelligence and a Postdoctoral Researcher in Electrical and Computer Engineering at the University of British Columbia. At Vector, she is advised by Dr. <a href="https://scholar.google.com/citations?user=sdENOQ4AAAAJ">Xiaoxiao Li</a> and Dr. <a href="https://www.linkedin.com/in/khume/">Kathryn Hume</a>, where her research centers on AI safety on foundation models and Agents.
   
   She earned her Ph.D. in Computer Science from Zhejiang University in June 2025, where she was supervised by Prof. <a href="https://scholar.google.com/citations?user=MY23M60AAAAJ">Xiaolin Zheng</a> and Prof. <a href="https://scholar.google.com/citations?user=qZTMyzwAAAAJ">Chaochao Chen</a>, and concurrently participated in the Joint Ph.D. Program with the National University of Singapore under the supervision of Prof. <a href="https://scholar.google.com.sg/citations?user=Z9DWCBEAAAAJ">Tat-Seng Chua</a>, in close collaboration with Dr. <a href="https://scholar.google.com.sg/citations?user=Ma5DtmoAAAAJ">Wenjie Wang</a>. 
 
@@ -34,7 +34,7 @@ short_bio: >-
 show_portrait: true
 portrait_url: assets/images/photos/profile_lxt.jpeg
 portrait_caption: >-
-  我是浙江大学的廖馨婷，欢迎访问我的主页~
+  我是英属哥伦比亚和向量研究所的联合培养博士后的廖馨婷，欢迎访问我的主页~
 
 education:
   - name: Zhejiang University
@@ -89,6 +89,10 @@ service:
   - name: Reviewer of ACM MM, ACL, EMNLP, NeurIPS, ICLR, AISTATS, ICML, CVPR, WWW, CIKM
 
 news:
+  - name: One paper about black-box attacking on textual gradient optimization  got accepted by ICML2026 AI4GOOD Workshop. Thanks for the support of my co-authors, and congrats.
+    date: May 2026
+  - name: One paper about failure mode in RAG got accepted by ICML2026. Congratulations on my co-authors.
+    date: Mar 2026
   - name: One paper about unbalanced optimal transport got accepted by NuerIPS2025. Thanks for the support of my co-authors, and congrats.
     date: Sep. 2025
   - name: One paper about federated learning with long-tail data got accepted by KDD2025. Congratulations on my co-authors.
