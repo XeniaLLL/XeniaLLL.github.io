@@ -86,7 +86,7 @@ experience:
 #  date: 2021
 
 service:
-  - name: Reviewer of ACM MM, ACL, EMNLP, NeurIPS, ICLR, AISTATS, ICML, CVPR, WWW, CIKM
+  - name: Reviewer of ACM MM, ACL, EMNLP, NeurIPS, ICLR, AISTATS, ICML, CVPR, WWW, CIKM, TPAMI
 
 news:
   - name: One paper about black-box attacking on textual gradient optimization  got accepted by ICML2026 AI4GOOD Workshop. Thanks for the support of my co-authors, and congrats.

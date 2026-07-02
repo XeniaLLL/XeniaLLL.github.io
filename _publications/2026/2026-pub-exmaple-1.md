@@ -5,7 +5,7 @@ selected:       true
 pub:            "ICML AI4GOOD Workshop 2026"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
-pub_last:       ' <span class="badge badge-pill badge-custom badge-secondary">CCF A Conference</span><span class="badge badge-pill badge-custom badge-warning">Poster</span>'
+pub_last:       '<span class="badge badge-pill badge-custom badge-warning">Poster</span>'
 pub_date:       "2026"
 
 abstract: >-
