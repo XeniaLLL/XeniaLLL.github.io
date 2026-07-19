@@ -2,7 +2,7 @@
 title:          CPInj Uncovering Prompt Injection Risks in Textual Collaborative Prompt Optimization  
 date:           2026-07-12 00:01:00 +0800
 selected:       true
-pub:            "ICML AI4GOOD Workshop"
+pub:            "ICML AI4GOOD Workshop, COLM 2026"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
 pub_last:       '<span class="badge badge-pill badge-custom badge-warning">Poster</span>'
@@ -13,12 +13,13 @@ abstract: >-
  
 cover:          assets/images/covers/malicious_client_loop.png
 authors:
-  - Xinting Liao*
+  - Xinting Liao
   - Behnoosh Zamanlooy
   - Masoumeh Shafieinejad
   - David B. Emerson
   - Ruinan Jin
   - Deval Pandya
+  - Xiaoxiao Li†
 
 links:
   Code:  
